@@ -160,6 +160,14 @@ p {
   }
 }
 
+@media (max-width: 600px) {
+  .masthead h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+}
+
+
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
